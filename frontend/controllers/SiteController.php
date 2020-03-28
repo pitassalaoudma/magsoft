@@ -170,6 +170,6 @@ class SiteController extends Controller
     }
     public function toto()
     {
-        return "Fabrice";
+        return "Fabrice!!!";
     }
 }
